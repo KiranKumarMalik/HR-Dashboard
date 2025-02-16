@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard-using-Power-BI
 # Interact with the Dashboard https://app.powerbi.com/links/5dc9NMGOVt?ctid=c1c2a42b-112a-4acf-a491-34ba46ae14eb&pbi_source=linkShare
-![Zomato](https://github.com/KiranKumarMalik/Zomato-sales-Data-Analysis/blob/5a6f628cb98724455bbb3c011881b33200985dce/Zomato.png)
+![Zomato](https://github.com/KiranKumarMalik/HR-Dashboard/blob/53201025de900b90b5cd8644020ce1e5562925c4/hr.png)
 ~ This project highlights my ability to use data visualization and analytics tools to identify key insights and provide actionable recommendations.
 
 ~  HR analytics aim to provide insight into how best to manage employees and reach business goals. 
